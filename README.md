@@ -1,3 +1,25 @@
+# Safisha Rugs
+
+Safisha Rugs is a modern, responsive website for a local carpet and upholstery cleaning business based in Kabarnet. The site showcases services, company information, and allows customers to send inquiries directly through a stylish contact form.
+
+Deployed site: []
+
+## Features
+- Clean, modern, and mobile-friendly design
+- Animated custom cursor for a unique user experience
+- Service and about pages with engaging visuals
+- Contact form with MySQL/JS backend for storing customer inquiries
+- Social media and direct contact links
+- Animated feedback for form submission
+
+## Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend:** JS with SupaBase (for contact form submission)
+- **Database:** MySQL
+- **Icons:** Font Awesome
+- **Fonts:** Google Fonts (Montserrat)
+
+
 # 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
 
 You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
