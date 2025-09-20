@@ -2,7 +2,7 @@
 
 Safisha Rugs is a modern, responsive website for a local carpet and upholstery cleaning business based in Kabarnet. The site showcases services, company information, and allows customers to send inquiries directly through a stylish contact form.
 
-[Deployed Site:](https://plp-webtechnologies-classroom-july2-swart.vercel.app/)
+[Deployed Site](https://plp-webtechnologies-classroom-july2-swart.vercel.app/)
 
 ## Features
 - Clean, modern, and mobile-friendly design
